@@ -1,5 +1,5 @@
 ﻿using System.Linq;
-
+using METAVIZ;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -16,6 +16,8 @@ public class Group : MonoBehaviour
 
     public void Start()
     {
+        var targetDistractorStimulus = GetComponent<TargetDistractorStimulus>();
+        targetDistractorStimulus.Observe(interactedWith: false);
         this.sideMovePeriodTime = Time.time + (this.periodDistance - (((36f + Results.Level) / 100) * this.periodDistance) - this.accelerationDistance);
         if (!this.gameObject.IsValidGridPos())
         {
@@ -145,6 +147,8 @@ public class Group : MonoBehaviour
                  select child.transform.position.y).Min() + 2f;
             Common.HitSound.Play();
             Results.Score += (int)(Constants.MaxAdditionalPoints - Mathf.Round(lowestY));
+            var targetDistractorStimulus = GetComponent<TargetDistractorStimulus>();
+            targetDistractorStimulus.Observe(interactedWith: true);
 
             // It's not valid. revert.
             this.transform.position += new Vector3(0, 1, 0);
