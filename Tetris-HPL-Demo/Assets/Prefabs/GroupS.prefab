@@ -314,11 +314,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   stimuliType: 0
-  taskID: tetris
-  foregroundMaterial: {fileID: 2100000, guid: 3772097a586f7b34aaf5d5ecfbe04f56, type: 2}
-  backgroundMaterial: {fileID: 2100000, guid: 52de847f555cf0740a1fb4d9a0a9fd03, type: 2}
+  taskID: Tetris Block Placed
+  foregroundMaterial: {fileID: 2100000, guid: 06bab5857f0a3f24d9d044a2e495202a, type: 2}
+  backgroundMaterial: {fileID: 2100000, guid: d834b1a2aecab7c4e9d8844632644496, type: 2}
   setSize: 1
-  _size: {x: 1, y: 1, z: 1}
+  _size: {x: 3, y: 2, z: 1}
 --- !u!1 &6381434020897682733
 GameObject:
   m_ObjectHideFlags: 0
