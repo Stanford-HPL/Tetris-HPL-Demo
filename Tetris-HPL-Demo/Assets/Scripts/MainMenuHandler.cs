@@ -68,8 +68,8 @@ public class MainMenuHandler : MonoBehaviour
         {
             case "Resume":
                 Common.SetByHiddenLevel();
-                var mainMenuScene = SceneManager.GetSceneByBuildIndex(0);
-                var gameScene = SceneManager.GetSceneByBuildIndex(1);
+                var mainMenuScene = SceneManager.GetSceneByName("MainMenuScene");
+                var gameScene = SceneManager.GetSceneByName("GamePlayScene");
                 SceneManager.SetActiveScene(gameScene);
                 gameScene.GetRootGameObjects().ToList().ForEach(
                     go =>
@@ -87,11 +87,11 @@ public class MainMenuHandler : MonoBehaviour
                 Results.Level = 1;
                 Results.Score = 0;
                 Common.IsGameStarted = true;
-                SceneManager.LoadScene(1);
+                SceneManager.LoadScene("GamePlayScene");
                 return;
             case "Options":
                 FindObjectsOfType<GameObject>().ToList().ForEach(go => go.SetActive(false));
-                SceneManager.LoadScene(2, LoadSceneMode.Additive);
+                SceneManager.LoadScene("GameOptionsScene", LoadSceneMode.Additive);
                 return;
             case "Exit":
                 Application.Quit(0);

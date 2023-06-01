@@ -24,7 +24,7 @@ public class Group : MonoBehaviour
             Debug.Log("GAME OVER");
             Common.IsRunning = false;
             Common.IsGameStarted = false;
-            SceneManager.LoadScene(3);
+            SceneManager.LoadScene("HighScoreScene");
         }
     }
 
@@ -37,7 +37,7 @@ public class Group : MonoBehaviour
             Common.IsRightPressed = false;
             Common.IsRunning = false;
             FindObjectsOfType<GameObject>().ToList().ForEach(go => go.SetActive(false));
-            SceneManager.LoadScene(0, LoadSceneMode.Additive);
+            SceneManager.LoadScene("MainMenuScene", LoadSceneMode.Additive);
         }
 
         if (Input.GetKeyDown(KeyCode.LeftArrow))

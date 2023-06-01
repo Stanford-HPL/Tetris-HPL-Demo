@@ -70,7 +70,7 @@ public class ScoresHandler : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.Escape))
         {
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene("MainMenuScene");
         }
     }
 }

@@ -84,8 +84,8 @@ public class OptionsHandler : MonoBehaviour
 
     private void BackToMenuScene()
     {
-        var options = SceneManager.GetSceneByBuildIndex(2);
-        var gameScene = SceneManager.GetSceneByBuildIndex(0);
+        var options = SceneManager.GetSceneByName("GameOptionsScene");
+        var gameScene = SceneManager.GetSceneByName("MainMenuScene");
         SceneManager.SetActiveScene(gameScene);
         gameScene.GetRootGameObjects().ToList().ForEach(
             go =>
