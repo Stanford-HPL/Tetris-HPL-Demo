@@ -22,6 +22,7 @@ public class Group : MonoBehaviour
         if (!this.gameObject.IsValidGridPos())
         {
             Debug.Log("GAME OVER");
+            targetDistractorStimulus.Observe(interactedWith: true, shouldRespond: false);
             Common.IsRunning = false;
             Common.IsGameStarted = false;
             SceneManager.LoadScene("HighScoreScene");

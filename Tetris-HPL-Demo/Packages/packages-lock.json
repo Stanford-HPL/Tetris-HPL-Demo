@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.metaviz.api": {
+    "com.hpl.vpi-unity": {
       "version": "file:E:/Steven Le/GitHub/VPI-Unity",
       "depth": 0,
       "source": "local",
