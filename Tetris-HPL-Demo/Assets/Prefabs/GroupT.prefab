@@ -402,4 +402,4 @@ MonoBehaviour:
   foregroundMaterial: {fileID: 2100000, guid: 5942405e9be3e5244919c40c80816cb1, type: 2}
   backgroundMaterial: {fileID: 2100000, guid: d834b1a2aecab7c4e9d8844632644496, type: 2}
   setSize: 1
-  _size: {x: 3, y: 2, z: 1}
+  size: {x: 3, y: 2, z: 1}

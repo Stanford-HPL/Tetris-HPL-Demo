@@ -66,7 +66,7 @@ MonoBehaviour:
   foregroundMaterial: {fileID: 2100000, guid: 5702b30f0d4ea7a4ebbaab3bf7ce6634, type: 2}
   backgroundMaterial: {fileID: 2100000, guid: d834b1a2aecab7c4e9d8844632644496, type: 2}
   setSize: 1
-  _size: {x: 1, y: 4, z: 1}
+  size: {x: 1, y: 4, z: 1}
 --- !u!1 &1147599206979391575
 GameObject:
   m_ObjectHideFlags: 0

@@ -1,0 +1,1 @@
+{"metadata":{"batch_id":"2089dc54-9d8a-40d0-95dc-ae5c63f39c76"},"model":{"overall_score":102.77076,"scores_breakdown":[{"score_type":"accuracy","score_value":110.1846},{"score_type":"detection"},{"score_type":"endurance","score_value":88.930664},{"score_type":"field_of_view","score_value":101.56222},{"score_type":"fov","score_value":101.56222},{"score_type":"multi_tracking"}]}}
