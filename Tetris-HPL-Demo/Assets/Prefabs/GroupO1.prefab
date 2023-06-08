@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 5416904696999269860}
   - component: {fileID: 8064248006302365458}
-  - component: {fileID: -5244695725223059059}
   m_Layer: 0
   m_Name: GroupO1
   m_TagString: Untagged
@@ -50,24 +49,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2274c3cdf1f0b847bfb8e648d620421, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &-5244695725223059059
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 916827735868702380}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 851d0afa5a504935bbf8440998047ee8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  stimuliType: 0
-  taskID: Tetris Block Placed
-  foregroundMaterial: {fileID: 2100000, guid: 1cb7761836f5c0a44b5b13f04598d4de, type: 2}
-  backgroundMaterial: {fileID: 2100000, guid: d834b1a2aecab7c4e9d8844632644496, type: 2}
-  setSize: 1
-  size: {x: 2, y: 3, z: 1}
 --- !u!1 &2401897175623153471
 GameObject:
   m_ObjectHideFlags: 0
@@ -78,6 +59,8 @@ GameObject:
   m_Component:
   - component: {fileID: 8170939398564080020}
   - component: {fileID: 8456980777074433210}
+  - component: {fileID: 3122909676574462104}
+  - component: {fileID: 4458145339110014594}
   m_Layer: 0
   m_Name: 1
   m_TagString: Untagged
@@ -152,6 +135,36 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &3122909676574462104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2401897175623153471}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 851d0afa5a504935bbf8440998047ee8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stimuliType: 0
+  taskID: Tetris Block Placed
+  foregroundMaterial: {fileID: 2100000, guid: 1cb7761836f5c0a44b5b13f04598d4de, type: 2}
+  backgroundMaterial: {fileID: 2100000, guid: d834b1a2aecab7c4e9d8844632644496, type: 2}
+  setSize: 1
+  size: {x: 1, y: 1, z: 1}
+--- !u!114 &4458145339110014594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2401897175623153471}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa7ac43ebe0ed104bb7d476ac1027b65, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3481653190978642168
 GameObject:
   m_ObjectHideFlags: 0
@@ -162,6 +175,8 @@ GameObject:
   m_Component:
   - component: {fileID: 3849669709960135593}
   - component: {fileID: 6207032624426336661}
+  - component: {fileID: 5379261158801079080}
+  - component: {fileID: 5083008967121545623}
   m_Layer: 0
   m_Name: 4
   m_TagString: Untagged
@@ -236,6 +251,36 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &5379261158801079080
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3481653190978642168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 851d0afa5a504935bbf8440998047ee8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stimuliType: 0
+  taskID: Tetris Block Placed
+  foregroundMaterial: {fileID: 2100000, guid: 1cb7761836f5c0a44b5b13f04598d4de, type: 2}
+  backgroundMaterial: {fileID: 2100000, guid: d834b1a2aecab7c4e9d8844632644496, type: 2}
+  setSize: 1
+  size: {x: 1, y: 1, z: 1}
+--- !u!114 &5083008967121545623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3481653190978642168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa7ac43ebe0ed104bb7d476ac1027b65, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4180626669567964112
 GameObject:
   m_ObjectHideFlags: 0
@@ -246,6 +291,8 @@ GameObject:
   m_Component:
   - component: {fileID: 7832616527971781729}
   - component: {fileID: 3245108776019728063}
+  - component: {fileID: 8767533521008349062}
+  - component: {fileID: 4024476051779913743}
   m_Layer: 0
   m_Name: 2
   m_TagString: Untagged
@@ -320,6 +367,36 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &8767533521008349062
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4180626669567964112}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 851d0afa5a504935bbf8440998047ee8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stimuliType: 0
+  taskID: Tetris Block Placed
+  foregroundMaterial: {fileID: 2100000, guid: 1cb7761836f5c0a44b5b13f04598d4de, type: 2}
+  backgroundMaterial: {fileID: 2100000, guid: d834b1a2aecab7c4e9d8844632644496, type: 2}
+  setSize: 1
+  size: {x: 1, y: 1, z: 1}
+--- !u!114 &4024476051779913743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4180626669567964112}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa7ac43ebe0ed104bb7d476ac1027b65, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7044077836544750596
 GameObject:
   m_ObjectHideFlags: 0
@@ -330,6 +407,8 @@ GameObject:
   m_Component:
   - component: {fileID: 5014705772877190874}
   - component: {fileID: 4099719710584234455}
+  - component: {fileID: 3115628350964358383}
+  - component: {fileID: 5216111411231931665}
   m_Layer: 0
   m_Name: 3
   m_TagString: Untagged
@@ -404,6 +483,36 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &3115628350964358383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7044077836544750596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 851d0afa5a504935bbf8440998047ee8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stimuliType: 0
+  taskID: Tetris Block Placed
+  foregroundMaterial: {fileID: 2100000, guid: 1cb7761836f5c0a44b5b13f04598d4de, type: 2}
+  backgroundMaterial: {fileID: 2100000, guid: d834b1a2aecab7c4e9d8844632644496, type: 2}
+  setSize: 1
+  size: {x: 1, y: 1, z: 1}
+--- !u!114 &5216111411231931665
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7044077836544750596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa7ac43ebe0ed104bb7d476ac1027b65, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &9071145932426621104
 GameObject:
   m_ObjectHideFlags: 0
@@ -414,6 +523,8 @@ GameObject:
   m_Component:
   - component: {fileID: 4038585849654963758}
   - component: {fileID: 4027503431166994036}
+  - component: {fileID: 3490180726575109287}
+  - component: {fileID: 5880512108954834444}
   m_Layer: 0
   m_Name: 5
   m_TagString: Untagged
@@ -488,3 +599,33 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &3490180726575109287
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9071145932426621104}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 851d0afa5a504935bbf8440998047ee8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stimuliType: 0
+  taskID: Tetris Block Placed
+  foregroundMaterial: {fileID: 2100000, guid: 1cb7761836f5c0a44b5b13f04598d4de, type: 2}
+  backgroundMaterial: {fileID: 2100000, guid: d834b1a2aecab7c4e9d8844632644496, type: 2}
+  setSize: 1
+  size: {x: 1, y: 1, z: 1}
+--- !u!114 &5880512108954834444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9071145932426621104}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa7ac43ebe0ed104bb7d476ac1027b65, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

@@ -16,13 +16,19 @@ public class Group : MonoBehaviour
 
     public void Start()
     {
-        var targetDistractorStimulus = GetComponent<TargetDistractorStimulus>();
-        targetDistractorStimulus.Observe(interactedWith: false);
+        // var targetDistractorStimulus = GetComponent<TargetDistractorStimulus>();
+        // foreach (Transform child in transform) {
+        //     child.GetComponent<TargetDistractorStimulus>().Observe(interactedWith: false);
+        // }
         this.sideMovePeriodTime = Time.time + (this.periodDistance - (((36f + Results.Level) / 100) * this.periodDistance) - this.accelerationDistance);
         if (!this.gameObject.IsValidGridPos())
         {
             Debug.Log("GAME OVER");
-            targetDistractorStimulus.Observe(interactedWith: true, shouldRespond: false);
+            // foreach (Transform child in transform) {
+            //     child.GetComponent<ImplementVPI>().GameEnd();
+            // }
+            transform.GetChild(0).GetComponent<ImplementVPI>().GameEnd();
+            // targetDistractorStimulus.Observe(interactedWith: true, shouldRespond: false);
             Common.IsRunning = false;
             Common.IsGameStarted = false;
             SceneManager.LoadScene("HighScoreScene");
@@ -37,7 +43,14 @@ public class Group : MonoBehaviour
             Common.IsLeftPressed = false;
             Common.IsRightPressed = false;
             Common.IsRunning = false;
-            FindObjectsOfType<GameObject>().ToList().ForEach(go => go.SetActive(false));
+            FindObjectsOfType<GameObject>().ToList().ForEach(go =>
+            {
+                // TODO: Fix Hardcode for all Do Not Destroy Objects. VPI TO not disable the Systems Prefab
+                if (go.name != "Systems(Clone)" && go.name != "Game Manager" && go.name != "Level Manager" && go.name != "MetricCollectionManager" && go.name != "Network Manager" && go.name != "VPI Manager" && go.name != "TargetDistractorManager")
+                {
+                    go.SetActive(false);
+                }
+            });
             SceneManager.LoadScene("MainMenuScene", LoadSceneMode.Additive);
         }
 
@@ -148,8 +161,11 @@ public class Group : MonoBehaviour
                  select child.transform.position.y).Min() + 2f;
             Common.HitSound.Play();
             Results.Score += (int)(Constants.MaxAdditionalPoints - Mathf.Round(lowestY));
-            var targetDistractorStimulus = GetComponent<TargetDistractorStimulus>();
-            targetDistractorStimulus.Observe(interactedWith: true);
+            
+            // VPI CALL
+            foreach (Transform child in gameObject.transform) {
+                child.GetComponent<ImplementVPI>().BlockPlaced();
+            }
 
             // It's not valid. revert.
             this.transform.position += new Vector3(0, 1, 0);
