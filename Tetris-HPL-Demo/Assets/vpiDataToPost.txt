@@ -1,0 +1,13 @@
+{
+  "data": {
+    "value": {
+      "OverallVPIScore": "145",
+      "AccuracyScore": "115",
+      "DetectionScore": "145",
+      "EnduranceScore": "104",
+      "FOVScore": "105",
+      "MultitrackingScore": "138"
+    },
+    "timestamp": "2024-03-06T16:05:45.277Z"
+  }
+}

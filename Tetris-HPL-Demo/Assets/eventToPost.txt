@@ -1,0 +1,5480 @@
+{
+  "raw_data": [
+    {
+      "event_type": "Parent",
+      "parent_id": "23252",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.604Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.82745105,
+        "g": 0.7254902,
+        "b": 0.6784314,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23252",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.623Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.82745105,
+        "g": 0.7254902,
+        "b": 0.6784314,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23262",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.611Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.82745105,
+        "g": 0.7254902,
+        "b": 0.6784314,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 818.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23262",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.623Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.82745105,
+        "g": 0.7254902,
+        "b": 0.6784314,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 818.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23272",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.611Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.82745105,
+        "g": 0.7254902,
+        "b": 0.6784314,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 843.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23272",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.623Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.82745105,
+        "g": 0.7254902,
+        "b": 0.6784314,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 843.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23282",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.611Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.82745105,
+        "g": 0.7254902,
+        "b": 0.6784314,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 818.0,
+        "y": 382.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23282",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.623Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.82745105,
+        "g": 0.7254902,
+        "b": 0.6784314,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 818.0,
+        "y": 382.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "22834",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:34.928Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.937254965,
+        "g": 0.329411775,
+        "b": 0.309803933,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22834",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:40.307Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.937254965,
+        "g": 0.329411775,
+        "b": 0.309803933,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 37.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22834",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.589Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.937254965,
+        "g": 0.329411775,
+        "b": 0.309803933,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 61.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22834",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.598Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.937254965,
+        "g": 0.329411775,
+        "b": 0.309803933,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 61.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "22844",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:34.946Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.937254965,
+        "g": 0.329411775,
+        "b": 0.309803933,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 818.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22844",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:40.307Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.937254965,
+        "g": 0.329411775,
+        "b": 0.309803933,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 37.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22844",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.589Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.937254965,
+        "g": 0.329411775,
+        "b": 0.309803933,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 61.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22844",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.598Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.937254965,
+        "g": 0.329411775,
+        "b": 0.309803933,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 61.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "22854",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:34.947Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.937254965,
+        "g": 0.329411775,
+        "b": 0.309803933,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 818.0,
+        "y": 382.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22854",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:40.307Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.937254965,
+        "g": 0.329411775,
+        "b": 0.309803933,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 61.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22854",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.589Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.937254965,
+        "g": 0.329411775,
+        "b": 0.309803933,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 86.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22854",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.598Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.937254965,
+        "g": 0.329411775,
+        "b": 0.309803933,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 86.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "22864",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:34.947Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.937254965,
+        "g": 0.329411775,
+        "b": 0.309803933,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 818.0,
+        "y": 407.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22864",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:40.307Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.937254965,
+        "g": 0.329411775,
+        "b": 0.309803933,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 86.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22864",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.589Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.937254965,
+        "g": 0.329411775,
+        "b": 0.309803933,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 111.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22864",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.598Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.937254965,
+        "g": 0.329411775,
+        "b": 0.309803933,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 111.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "22928",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:39.829Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 818.0,
+        "y": 382.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22928",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:40.706Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 160.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22928",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.590Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 185.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22928",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.599Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 185.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "22938",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:39.829Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 382.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22938",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:40.706Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 160.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22938",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.590Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 185.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22938",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.599Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 185.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "22948",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:39.829Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 818.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22948",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:40.707Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 135.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22948",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.590Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 160.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22948",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.599Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 160.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "22958",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:39.829Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 818.0,
+        "y": 333.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22958",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:40.707Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 111.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22958",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.591Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 135.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22958",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.599Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 135.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "22880",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:34.947Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 506.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22880",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:39.826Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 12.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22880",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.589Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 37.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22880",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.598Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 37.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "22890",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:34.947Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 481.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22890",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:39.826Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": -12.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22890",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.590Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 12.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22890",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.598Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 12.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "22900",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:34.947Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 506.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22900",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:39.826Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 12.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22900",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.590Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 37.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22900",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.598Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 37.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "22910",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:34.948Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 481.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22910",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:39.826Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": -12.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22910",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.590Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 12.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22910",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.598Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 12.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "22974",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:40.308Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22974",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.026Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 185.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22974",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.591Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 209.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22974",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.599Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 209.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "22984",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:40.309Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 818.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22984",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.027Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 185.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22984",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.591Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 209.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22984",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.600Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 209.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "22994",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:40.309Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 382.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22994",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.027Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 209.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22994",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.591Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 234.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "22994",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.600Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 234.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23004",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:40.309Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 407.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23004",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.027Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 234.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23004",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.591Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 259.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23004",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.600Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 259.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23204",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.594Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.5058824,
+        "g": 0.8745099,
+        "b": 0.9176471,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 382.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23204",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.595Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.5058824,
+        "g": 0.8745099,
+        "b": 0.9176471,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 382.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23204",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.603Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.5058824,
+        "g": 0.8745099,
+        "b": 0.9176471,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 506.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23214",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.595Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.5058824,
+        "g": 0.8745099,
+        "b": 0.9176471,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23214",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.595Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.5058824,
+        "g": 0.8745099,
+        "b": 0.9176471,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23214",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.603Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.5058824,
+        "g": 0.8745099,
+        "b": 0.9176471,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 481.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23224",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.595Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.5058824,
+        "g": 0.8745099,
+        "b": 0.9176471,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 818.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23224",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.595Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.5058824,
+        "g": 0.8745099,
+        "b": 0.9176471,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 818.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23224",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.603Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.5058824,
+        "g": 0.8745099,
+        "b": 0.9176471,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 481.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23234",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.595Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.5058824,
+        "g": 0.8745099,
+        "b": 0.9176471,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 818.0,
+        "y": 333.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23234",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.595Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.5058824,
+        "g": 0.8745099,
+        "b": 0.9176471,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 818.0,
+        "y": 333.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23234",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.604Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.5058824,
+        "g": 0.8745099,
+        "b": 0.9176471,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 456.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23112",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.329Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 818.0,
+        "y": 382.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23112",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.586Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 456.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23112",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.593Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 481.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23112",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.601Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 481.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23122",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.329Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 382.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23122",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.587Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 456.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23122",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.593Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 481.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23122",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.601Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 481.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23132",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.329Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 818.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23132",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.587Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 432.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23132",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.593Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 456.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23132",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.601Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 456.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23142",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.330Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23142",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.587Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 432.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23142",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.593Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 456.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23142",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.601Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 456.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23158",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.448Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 818.0,
+        "y": 382.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23158",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.594Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 506.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23158",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.596Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 481.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23158",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.603Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 506.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23168",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.448Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 382.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23168",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.594Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 506.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23168",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.596Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 481.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23168",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.603Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 506.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23178",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.449Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 818.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23178",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.594Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 481.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23178",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.596Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 456.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23178",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.603Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 481.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23188",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.449Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23188",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.594Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 481.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23188",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.596Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 456.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23188",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.603Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 1.0,
+        "g": 0.878431439,
+        "b": 0.5058824,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 481.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23066",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.028Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23066",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.446Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23066",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.592Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 382.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23066",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.601Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 382.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23076",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.029Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 818.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23076",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.446Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23076",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.592Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 382.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23076",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.601Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 497.0,
+        "y": 382.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23086",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.029Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 382.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23086",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.446Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 382.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23086",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.592Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 407.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23086",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.601Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 407.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23096",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.029Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 407.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23096",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.446Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 407.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23096",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.593Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 432.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23096",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.601Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.494117677,
+        "g": 0.345098048,
+        "b": 0.764705956,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 432.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23020",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:40.708Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.388235331,
+        "g": 0.709803939,
+        "b": 0.9686275,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 382.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23020",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.326Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.388235331,
+        "g": 0.709803939,
+        "b": 0.9686275,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 333.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23020",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.591Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.388235331,
+        "g": 0.709803939,
+        "b": 0.9686275,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23020",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.600Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.388235331,
+        "g": 0.709803939,
+        "b": 0.9686275,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23030",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:40.708Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.388235331,
+        "g": 0.709803939,
+        "b": 0.9686275,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 358.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23030",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.326Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.388235331,
+        "g": 0.709803939,
+        "b": 0.9686275,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 308.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23030",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.592Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.388235331,
+        "g": 0.709803939,
+        "b": 0.9686275,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 333.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23030",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.600Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.388235331,
+        "g": 0.709803939,
+        "b": 0.9686275,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 333.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23040",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:40.708Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.388235331,
+        "g": 0.709803939,
+        "b": 0.9686275,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 333.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23040",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.326Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.388235331,
+        "g": 0.709803939,
+        "b": 0.9686275,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 284.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23040",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.592Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.388235331,
+        "g": 0.709803939,
+        "b": 0.9686275,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 308.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23040",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.600Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.388235331,
+        "g": 0.709803939,
+        "b": 0.9686275,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 308.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Parent",
+      "parent_id": "23050",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:40.708Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.388235331,
+        "g": 0.709803939,
+        "b": 0.9686275,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 793.0,
+        "y": 308.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23050",
+      "task_id": "Tetris Block Placed",
+      "user_input": true,
+      "should_respond": false,
+      "time_occurred": "2024-03-06T16:05:41.328Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.388235331,
+        "g": 0.709803939,
+        "b": 0.9686275,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 259.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23050",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.592Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.388235331,
+        "g": 0.709803939,
+        "b": 0.9686275,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 284.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    {
+      "event_type": "Child",
+      "parent_id": "23050",
+      "task_id": "Tetris Block Placed",
+      "user_input": false,
+      "should_respond": true,
+      "time_occurred": "2024-03-06T16:05:41.601Z",
+      "foreground": {
+        "encoding": "RGBAFloat",
+        "r": 0.388235331,
+        "g": 0.709803939,
+        "b": 0.9686275,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "background": {
+        "encoding": "RGBAFloat",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "transforms": {
+          "alpha": 1.0
+        }
+      },
+      "position": {
+        "unit_type": "pixels",
+        "x": 472.0,
+        "y": 284.0,
+        "z": 26.0
+      },
+      "dimensions": {
+        "unit_type": "pixels",
+        "width": 16.0,
+        "height": 16.0
+      }
+    }
+  ]
+}
